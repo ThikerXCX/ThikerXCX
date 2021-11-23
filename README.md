@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @ThikerXCX
-- 👀 I’m interested in learning any language
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me use gmail
-
+hello guys ngapain lihat repo gua gak ada isinya paling cuman tugas doang
+anjai YGY
+Ya Guys Ya
