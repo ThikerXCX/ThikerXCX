@@ -1,11 +1,7 @@
-<Header><h2>Muhamad Rifki</h2></Header>
-<hr>
-<label style="margin: auto;">Kegiatan</label>
-<nav>
-    <ul>
-        <li>Nikmatin Masa Muda dengan belajar,Cari Uang ,jalan jalan</li>
-        <li>Cari Uang buat ,nikah,beli rumah,orang tua</li>
-        <li>Pacaran entar aja takut anak orang bunting </li>
-    </ul>
-</nav>
-<img src="https://scontent-cgk1-2.xx.fbcdn.net/v/t39.30808-6/289618713_3950499838509494_4287792804623921180_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeENN62Mw8U-HWswg00w7RXi-1Xt2TCizXT7Ve3ZMKLNdAtL4kk-ei98aCwTLHOBiwNs7Ke2LC4G0HGFFXCLb7BN&_nc_ohc=C4hRAeQ0or8AX9Q8f55&_nc_ht=scontent-cgk1-2.xx&oh=00_AT_nZ_gVNHfDifPI7V-r6fwKm-uRAxiZkSuztgZWtqFidA&oe=62FFFE63" alt="" srcset="">
+target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thikerxcx&show_icons=true&locale=en&layout=compact" alt="thikerxcx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thikerxcx&show_icons=true&locale=en" alt="thikerxcx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thikerxcx&" alt="thikerxcx" /></p>
